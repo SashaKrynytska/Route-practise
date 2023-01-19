@@ -1,8 +1,8 @@
 {
-  "name": "Route-practise",
+  "name": "route-practise",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SashaKrynytska.github.io/Route-practise/",
+  "homepage": "https://sashakrynytska.github.io/Route-practise/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
